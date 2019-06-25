@@ -1399,7 +1399,7 @@ body {
 }
 
 .pitch-inner h4 {
-	font-family: 'Nunito';
+	font-family: 'Product Sans';
 	font-size: 12px;
 	font-weight: 400;
 	letter-spacing: 1px;
@@ -1408,7 +1408,7 @@ body {
 }
 
 .pitch-inner h1 {
-	font-family: 'Nunito';
+	font-family: 'Product Sans';
 	font-size: 28px;
 	line-height: 1.2;
 	margin-top: 20px;
@@ -1831,6 +1831,7 @@ body {
 	.hero .intro h1 {
 		font-size: 36px;
 	}
+
 
 	.hero .intro h1 span {
 		font-size: 36px;

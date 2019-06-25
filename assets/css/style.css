@@ -563,6 +563,7 @@ body {
   padding: 0.5rem 1.5rem;
 	background: #5b9ee5;
 	border: 1px solid;
+	/* border-radius: 50px; */
 	border-color: #5b9ee5;
   border-radius: .125rem;
 	/* box-shadow: 0 10px 30px rgba(65,205,82,.5); */
@@ -1436,16 +1437,16 @@ body {
 }
 
 .cta-2-inner h1 {
-	font-family: 'Roboto';
+	font-family: "Product Sans", 'Roboto';
 	font-size: 28px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 1.4;
 	color: #252525;
 	margin-bottom: 20px;
 }
 
 .cta-2-inner p {
-	font-family: 'Roboto';
+	font-family: "Nunito",'Roboto';
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 1.4;
